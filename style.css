@@ -1,0 +1,37 @@
+body {
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+background-color: lightgrey;
+}
+
+
+
+h1 {
+    color:rgb(12, 133, 40);
+    font-size: 50px;
+}
+
+/* note to myself ive added a dot in front of intro as a class i used to name on the index html page */
+.intro {
+    color: rgb(11, 72, 193);
+}
+
+.main-image {
+    width: 70%;
+
+}
+
+h2 {
+    color: coral;
+    font-size: 30px;
+}
+
+p {
+    color: brown;
+}
+
+.nightsde-image {
+    width: 50%
+
+}
+
